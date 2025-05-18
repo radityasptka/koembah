@@ -1,0 +1,26 @@
+.header {
+  background: linear-gradient(to right, #14b8a6, #0ea5e9);
+  color: white;
+  padding: 30px 20px;
+  text-align: center;
+}
+
+.header-content .logo {
+  max-width: 80px;
+  margin-bottom: 10px;
+}
+
+.nav {
+  margin-top: 20px;
+}
+
+.nav a {
+  margin: 0 12px;
+  color: white;
+  font-weight: 500;
+  transition: color 0.3s;
+}
+
+.nav a:hover {
+  color: #facc15;
+}

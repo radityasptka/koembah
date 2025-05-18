@@ -1,0 +1,19 @@
+.faq-list {
+  max-width: 800px;
+  margin: auto;
+  text-align: left;
+}
+
+.faq-item {
+  background: white;
+  border-left: 4px solid #0ea5e9;
+  margin-bottom: 15px;
+  padding: 15px 20px;
+  border-radius: 5px;
+}
+
+.faq-item h4 {
+  font-size: 1.1rem;
+  margin-bottom: 8px;
+  color: #0ea5e9;
+}
